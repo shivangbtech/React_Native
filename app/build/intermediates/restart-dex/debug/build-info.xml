@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="22"
+    density="hdpi"
+    format="7"
+    timestamp="19612221634819" >
+
+    <task
+        name="javac"
+        duration="1881" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="133" />
+    <task
+        name="verifier"
+        duration="50" />
+
+    <artifact
+        location="/home/ttnd/ReactTestProject/android/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="20265300462287" >
+        <artifact
+            location="/home/ttnd/ReactTestProject/android/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

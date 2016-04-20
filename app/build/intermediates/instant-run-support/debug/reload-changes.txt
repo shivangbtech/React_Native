@@ -1,0 +1,2 @@
+CHANGED,/home/ttnd/ReactTestProject/android/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/reacttestproject/MainReactNativeActivity$override.class
+CHANGED,/home/ttnd/ReactTestProject/android/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
