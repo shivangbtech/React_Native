@@ -1,10 +1,12 @@
 # React_Native
 
-Install :
+# Install :
 
 npm install --save react-native-dropdown-android
 
-Usage:
+
+
+# Usage:
 
 var Dropdown = require('react-native-dropdown-android');
 ...
@@ -18,5 +20,6 @@ var Dropdown = require('react-native-dropdown-android');
     );
   }
   
-  Reference:
+  
+  # Reference:
   https://github.com/chymtt/ReactNativeDropdownAndroid
