@@ -21,5 +21,5 @@ var Dropdown = require('react-native-dropdown-android');
   }
   
   
-  # Reference:
+# Reference:
   https://github.com/chymtt/ReactNativeDropdownAndroid
